@@ -1,6 +1,6 @@
 # Case-Study
 
-- Download the repository "Case-Study"
+- Download the repository "Case-Study" and add your data set in both subfolders (2D Visualization and 3D Visualization)
 - Case Study folder contain 2 subfolders (2D & 3D Visulization of Data) each of which contain implementation(ipynb formt) and output results(HTML/PNG format) 
 - To run the project, first, it is necessary to install all the following Packages which enable us to implement different approaches:
 (Since I used Anaconda, the installation commands are based on it)
