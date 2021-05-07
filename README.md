@@ -14,7 +14,7 @@
 - To explain better the implementation, comments are added on each cell as well.
 
 ## Task 1:
-- Data Visualization are implemented in diffrerent approaches for each 2D and 3D Visualization 
+- Data Visualization is implemented in different approaches for each 2D and 3D Visualization 
   #### 2D Visualization:
   1. **First Approach:** Interactive Network by exploiting Networkx and D3
   2. **Second Approach:** 2D Networks in 5 different layouts using only Networkx toolkits
@@ -30,6 +30,6 @@
  
  ## Task 2:
 - Although I am not an expert with Web Application Development, I tried to do my best to fulfill the whole project.
-- I embedded  my visualization on my Plotly Chart Studio account ("https://chart-studio.plotly.com/~Meisam-Asgari/1") and deployed it along with some other obtained results in a free hosting service with "https://masgarioe.wixsite.com/website" URL.
+- I embedded my visualization on my Plotly Chart Studio account ("https://chart-studio.plotly.com/~Meisam-Asgari/1") and deployed it along with some other obtained results in a free hosting service with "https://masgarioe.wixsite.com/website" URL.
 
 #### Finally, I hope the implementations have been  consistent with your expectation
