@@ -12,10 +12,11 @@
 - To explain better the implementation, comments are added on each cell as well.
 ## Task 1:
 - Data Visualization are implemented in diffrerent approaches for each 2D and 3D Visualization 
-### 2D Visualization:
-1. First Approach: Interactive Network by exploiting Networkx and D3
-2. Second Approach: 2D Networks in 5 different layouts using only Networkx toolkits
-- sakjd
+#### 2D Visualization:
+**1. First Approach**: Interactive Network by exploiting Networkx and D3
+**2. Second Approach**: 2D Networks in 5 different layouts using only Networkx toolkits
+  - Pydot and Graphviz Layout 
+  - 
 
 
 - 
