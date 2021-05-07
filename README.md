@@ -17,15 +17,15 @@
   #### 2D Visualization:
   1. **First Approach:** Interactive Network by exploiting Networkx and D3
   2. **Second Approach:** 2D Networks in 5 different layouts using only Networkx toolkits
-  - Pydot and Graphviz Layout 
-  - Planar Layout
-  - Spiral Layout
-  - Circular Layout
-  - Spring Layout
+    - Pydot and Graphviz Layout 
+    - Planar Layout
+    - Spiral Layout
+    - Circular Layout
+    - Spring Layout
   #### 3D Visualization:
    - This visualization is implemented for only 2 different layouts which support 3D dimension(Spring Layout / Circular Layout )
-    1. **First Approach:** By exploiting Plotly Library
-    2. **Second Approach:** By exploiting mplot3d toolkit (Using linear scaling to scale the size of each node proportional to the number of edges adjacent to a single node)
+   1. **First Approach:** By exploiting Plotly Library
+   2. **Second Approach:** By exploiting mplot3d toolkit (Using linear scaling to scale the size of each node proportional to the number of edges adjacent to a single node)
  
  ## Task 2:
 - Although I am not an expert with Web Application Development, I tried to do my best to fulfill the whole project.
