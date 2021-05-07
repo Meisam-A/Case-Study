@@ -10,13 +10,25 @@
 6. Mpld3: conda install -c conda-forge mpld3 
 - After installation of required packges, open the source codes (2D_Visualization.ipynb / 3D_Visualization.ipynb), follow the instruction, and run the cells to obtain desired results
 - To explain better the implementation, comments are added on each cell as well.
+
 ## Task 1:
 - Data Visualization are implemented in diffrerent approaches for each 2D and 3D Visualization 
 #### 2D Visualization:
-**1. First Approach**: Interactive Network by exploiting Networkx and D3
-**2. Second Approach**: 2D Networks in 5 different layouts using only Networkx toolkits
+1. **First Approach:** Interactive Network by exploiting Networkx and D3
+2. **Second Approach:** 2D Networks in 5 different layouts using only Networkx toolkits
   - Pydot and Graphviz Layout 
-  - 
+  - Planar Layout
+  - Spiral Layout
+  - Circular Layout
+  - Spring Layout
+ #### 3D Visualization:
+ - This visualization is implemented for only 2 different layouts which support 3D dimension(Spring Layout / Circular Layout )
+ 1. **First Approach:** By exploiting Plotly Library
+ 2. **Second Approach:** By exploiting mplot3d toolkit (Using linear scaling to scale the size of each node proportional to the number of edges adjacent to a single node)
+ 
+ ## Task 2:
+- Although I am not an expert with Web Application Development, I tried to do my best to fulfill the whole project.
+- I embedded  my visualization on my Plotly Chart Studio account ("https://chart-studio.plotly.com/~Meisam-Asgari/1") and deployed it along with some other obtained results in a free hosting service with "https://masgarioe.wixsite.com/website" URL.
 
+#### Finally, I hope the implementazion of tasks are consistenrt with your expectation
 
-- 
