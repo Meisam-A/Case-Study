@@ -1,6 +1,6 @@
 # Case-Study
 To run the project follow the instruction below:
-##Task 1:
+## Task 1:
 ### 1- Install all the folloing Packages which enable us to implement different approaches
 (Since I used Anaconda, the installation commands are based on it)
     1. Networkx: conda install -c anaconda networkx
