@@ -1,0 +1,343 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "node_id": 966,
+            "node_label": "Anthony",
+            "node_color": "#ED8B00",
+            "id": 0
+        },
+        {
+            "node_id": 945,
+            "node_label": "Matthew",
+            "node_color": "#ED8B00",
+            "id": 1
+        },
+        {
+            "node_id": 879,
+            "node_label": "Christopher",
+            "node_color": "#ED8B00",
+            "id": 2
+        },
+        {
+            "node_id": 649,
+            "node_label": "Linda",
+            "node_color": "#00965E",
+            "id": 3
+        },
+        {
+            "node_id": 941,
+            "node_label": "Daniel",
+            "node_color": "#ED8B00",
+            "id": 4
+        },
+        {
+            "node_id": 467,
+            "node_label": "Richard",
+            "node_color": "#A05EB5",
+            "id": 5
+        },
+        {
+            "node_id": 1042,
+            "node_label": "Margaret",
+            "node_color": "#B1B3B3",
+            "id": 6
+        },
+        {
+            "node_id": 785,
+            "node_label": "Jessica",
+            "node_color": "#E40046",
+            "id": 7
+        },
+        {
+            "node_id": 619,
+            "node_label": "Patricia",
+            "node_color": "#00965E",
+            "id": 8
+        },
+        {
+            "node_id": 457,
+            "node_label": "David",
+            "node_color": "#A05EB5",
+            "id": 9
+        },
+        {
+            "node_id": 639,
+            "node_label": "Jennifer",
+            "node_color": "#00965E",
+            "id": 10
+        },
+        {
+            "node_id": 747,
+            "node_label": "Susan",
+            "node_color": "#E40046",
+            "id": 11
+        },
+        {
+            "node_id": 185,
+            "node_label": "Michael",
+            "node_color": "#0066CC",
+            "id": 12
+        },
+        {
+            "node_id": 349,
+            "node_label": "William",
+            "node_color": "#0066CC",
+            "id": 13
+        },
+        {
+            "node_id": 1157,
+            "node_label": "Sandra",
+            "node_color": "#B1B3B3",
+            "id": 14
+        },
+        {
+            "node_id": 1152,
+            "node_label": "Betty",
+            "node_color": "#B1B3B3",
+            "id": 15
+        },
+        {
+            "node_id": 517,
+            "node_label": "Thomas",
+            "node_color": "#A05EB5",
+            "id": 16
+        },
+        {
+            "node_id": 158,
+            "node_label": "John",
+            "node_color": "#0066CC",
+            "id": 17
+        },
+        {
+            "node_id": 552,
+            "node_label": "Charles",
+            "node_color": "#A05EB5",
+            "id": 18
+        },
+        {
+            "node_id": 498,
+            "node_label": "Joseph",
+            "node_color": "#A05EB5",
+            "id": 19
+        },
+        {
+            "node_id": 574,
+            "node_label": "Mary",
+            "node_color": "#00965E",
+            "id": 20
+        },
+        {
+            "node_id": 1025,
+            "node_label": "Lisa",
+            "node_color": "#B1B3B3",
+            "id": 21
+        },
+        {
+            "node_id": 813,
+            "node_label": "Karen",
+            "node_color": "#E40046",
+            "id": 22
+        },
+        {
+            "node_id": 792,
+            "node_label": "Sarah",
+            "node_color": "#E40046",
+            "id": 23
+        },
+        {
+            "node_id": 652,
+            "node_label": "Elizabeth",
+            "node_color": "#00965E",
+            "id": 24
+        },
+        {
+            "node_id": 172,
+            "node_label": "Robert",
+            "node_color": "#0066CC",
+            "id": 25
+        },
+        {
+            "node_id": 1009,
+            "node_label": "Nancy",
+            "node_color": "#ED8B00",
+            "id": 26
+        },
+        {
+            "node_id": 3,
+            "node_label": "James",
+            "node_color": "#0066CC",
+            "id": 27
+        },
+        {
+            "node_id": 709,
+            "node_label": "Barbara",
+            "node_color": "#E40046",
+            "id": 28
+        }
+    ],
+    "links": [
+        {
+            "weights": 13,
+            "source": 0,
+            "target": 1
+        },
+        {
+            "weights": 10,
+            "source": 0,
+            "target": 2
+        },
+        {
+            "weights": 8,
+            "source": 0,
+            "target": 5
+        },
+        {
+            "weights": 7,
+            "source": 0,
+            "target": 6
+        },
+        {
+            "weights": 7,
+            "source": 0,
+            "target": 7
+        },
+        {
+            "weights": 7,
+            "source": 0,
+            "target": 8
+        },
+        {
+            "weights": 6,
+            "source": 0,
+            "target": 10
+        },
+        {
+            "weights": 6,
+            "source": 0,
+            "target": 15
+        },
+        {
+            "weights": 6,
+            "source": 0,
+            "target": 16
+        },
+        {
+            "weights": 6,
+            "source": 0,
+            "target": 17
+        },
+        {
+            "weights": 6,
+            "source": 0,
+            "target": 19
+        },
+        {
+            "weights": 5,
+            "source": 0,
+            "target": 14
+        },
+        {
+            "weights": 5,
+            "source": 0,
+            "target": 12
+        },
+        {
+            "weights": 5,
+            "source": 0,
+            "target": 21
+        },
+        {
+            "weights": 5,
+            "source": 0,
+            "target": 25
+        },
+        {
+            "weights": 5,
+            "source": 0,
+            "target": 27
+        },
+        {
+            "weights": 5,
+            "source": 2,
+            "target": 0
+        },
+        {
+            "weights": 9,
+            "source": 3,
+            "target": 0
+        },
+        {
+            "weights": 8,
+            "source": 4,
+            "target": 0
+        },
+        {
+            "weights": 7,
+            "source": 9,
+            "target": 0
+        },
+        {
+            "weights": 6,
+            "source": 10,
+            "target": 0
+        },
+        {
+            "weights": 6,
+            "source": 11,
+            "target": 0
+        },
+        {
+            "weights": 6,
+            "source": 12,
+            "target": 0
+        },
+        {
+            "weights": 6,
+            "source": 13,
+            "target": 0
+        },
+        {
+            "weights": 6,
+            "source": 14,
+            "target": 0
+        },
+        {
+            "weights": 6,
+            "source": 18,
+            "target": 0
+        },
+        {
+            "weights": 6,
+            "source": 20,
+            "target": 0
+        },
+        {
+            "weights": 5,
+            "source": 22,
+            "target": 0
+        },
+        {
+            "weights": 5,
+            "source": 23,
+            "target": 0
+        },
+        {
+            "weights": 5,
+            "source": 23,
+            "target": 24
+        },
+        {
+            "weights": 5,
+            "source": 26,
+            "target": 0
+        },
+        {
+            "weights": 5,
+            "source": 28,
+            "target": 0
+        }
+    ]
+}
