@@ -1,5 +1,6 @@
 # Case-Study
 
+- Download the repository "Case-Study"
 - Case Study folder contain 2 subfolders (2D & 3D Visulization of Data) each of which contain implementation(ipynb formt) and output results(HTML/PNG format) 
 - To run the project in each case first, it is necessary to install all the following Packages which enable us to implement different approaches:
 (Since I used Anaconda, the installation commands are based on it)
@@ -32,4 +33,3 @@
 - I embedded  my visualization on my Plotly Chart Studio account ("https://chart-studio.plotly.com/~Meisam-Asgari/1") and deployed it along with some other obtained results in a free hosting service with "https://masgarioe.wixsite.com/website" URL.
 
 #### Finally, I hope the implementations have been  consistent with your expectation
-
