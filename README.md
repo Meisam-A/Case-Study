@@ -2,7 +2,7 @@
 
 - Download the repository "Case-Study"
 - Case Study folder contain 2 subfolders (2D & 3D Visulization of Data) each of which contain implementation(ipynb formt) and output results(HTML/PNG format) 
-- To run the project in each case first, it is necessary to install all the following Packages which enable us to implement different approaches:
+- To run the project, first, it is necessary to install all the following Packages which enable us to implement different approaches:
 (Since I used Anaconda, the installation commands are based on it)
   1. Networkx: conda install -c anaconda networkx
   2. Pydot: conda install -c anaconda pydot
